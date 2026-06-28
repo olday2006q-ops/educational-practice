@@ -18,3 +18,6 @@ cd educational-practice
 
 
 npx live-server
+
+
+educational-practice-omega.vercel.app
